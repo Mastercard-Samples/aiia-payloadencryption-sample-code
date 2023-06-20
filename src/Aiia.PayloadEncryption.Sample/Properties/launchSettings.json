@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Aiia.PayloadEncryption.Sample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DYLD_LIBRARY_PATH": "<path-to-your-local-openssl@3-lib>"
+      }
+    }
+  }
+}
