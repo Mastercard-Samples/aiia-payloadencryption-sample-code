@@ -6,7 +6,7 @@ The Payload Encryption functionality is available in all of Aiia's products in t
  - Services look at whether the `X-Payload-Encryption` header is present to enable the Payload Encryption feature
 
 The official documentation can be found here:
-https://docs.nordicapigateway.com/#/connecting-to-the-api/advanced-topics/?id=payload-encryption-preview
+https://docs.nordicapigateway.com/#/connecting-to-the-api/advanced-topics/?id=payload-encryption
 
 ## How to run
 - Open the Solution in your favorite IDE
